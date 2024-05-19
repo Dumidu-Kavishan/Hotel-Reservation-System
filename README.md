@@ -1,2 +1,2 @@
-#Backend PHP users can reserve their hotel rooms and admin can handle all the bookings.
+#users can reserve their hotel rooms and admin can handle all the bookings.
 
